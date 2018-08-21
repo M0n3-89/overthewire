@@ -1,0 +1,2 @@
+rioGegei8m # html file in .backup dir grep for "password" 
+ougahZi8Ta # gdb the check binary, break on strcmp, step over, dump stack, next to inserted text there is "sex",  the password
